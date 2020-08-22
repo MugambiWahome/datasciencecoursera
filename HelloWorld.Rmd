@@ -1,0 +1,8 @@
+---
+title: "Hello World"
+author: "BY MUGAMBI WAHOME"
+date: "2020 M08 22"
+output: pdf_document
+---
+
+## This is a markdown file
